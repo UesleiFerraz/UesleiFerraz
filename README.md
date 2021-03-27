@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">My name is Ueslei, i'm a fullstack developer from Brasil, currently stack i'm working with is Javascript, but i have experience with anothers languages and i'm studying at Unisinos - RS, Brasil</h3>
+<h3 align="center">My name is Ueslei, i'm a fullstack developer from Brasil, currently stack i'm working with is Javascript, but i have experience with anothers programming languages and i'm studying at Unisinos - RS, Brasil</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/UesleiFerraz](https://github.com/UesleiFerraz)
 
